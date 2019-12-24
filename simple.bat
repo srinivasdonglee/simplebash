@@ -1,0 +1,1 @@
+ipconfig > out.txt
