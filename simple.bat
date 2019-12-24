@@ -1,1 +1,1 @@
-ipconfig > out1.txt
+ipconfig > out.txt
